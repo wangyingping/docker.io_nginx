@@ -1,1 +1,1 @@
-FROM docker.io/library/nginx:1.19.5
+FROM docker.io/library/nginx:1.19.9
