@@ -1,1 +1,1 @@
-sync docker.io/library/nginx:1.18.0
+sync docker.io/library/nginx:1.20.0
